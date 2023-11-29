@@ -1,0 +1,8 @@
+===========TTV
+
+- React + Vite: npm create vite@latest -- --template react <project_name>
+- Packages:
+    + npm install three @react-three/fiber @react-three/drei maath valtio react-color framer-motion
+- Install tailwindcss go: https://tailwindcss.com/docs/guides/vite
+    + npm install -D tailwindcss postcss autoprefixer
+    + node_modules/.bin/tailwindcss init
