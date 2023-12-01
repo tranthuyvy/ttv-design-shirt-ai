@@ -1,4 +1,4 @@
-===========CREATED BY TTV===========
+=================================CREATED BY TRAN THUY VY=================================
 
 - React + Vite: npm create vite@latest -- --template react <project_name>
 - Packages:
@@ -12,3 +12,5 @@
     + A cool simple logo
     + Create a smooth gradient pattern that goes from red to black
     + A cute baby sea otter
+
+- OPEN_AI_KEY: DEPLOY => DELETE KEY
