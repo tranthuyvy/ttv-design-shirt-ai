@@ -8,7 +8,9 @@
 <div align=center>
     <a href="https://ttv-fe-design-shirt-ai.vercel.app/"><img src="./client/src/assets/home.png" /></a>
 </div>
+
 <br/>
+
 # Customizer Page
 <div align=center>
     <a href="https://ttv-fe-design-shirt-ai.vercel.app/"><img src="./client/src/assets/custom.png" /></a>
