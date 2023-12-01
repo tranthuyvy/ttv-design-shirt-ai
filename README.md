@@ -1,24 +1,20 @@
 # Website Design Shirt 3D AI
+# Introduction
+- A Design T-Shirt Customizing Website
+- You can upload custom logos and texture files.
+- Or you can write AI Prompt to help you generate custom logos and textures for your T-shirt.
 
-<div align=center>
-    ## Home Page
-</div>
+# Home Page
 <div align=center>
     <a href="https://ttv-fe-design-shirt-ai.vercel.app/"><img src="./client/src/assets/home.png" /></a>
 </div>
-<div align=center>
-    ## Customizer Page
-</div>
+<br/>
+# Customizer Page
 <div align=center>
     <a href="https://ttv-fe-design-shirt-ai.vercel.app/"><img src="./client/src/assets/custom.png" /></a>
 </div>
-## Introduction
 
-- A Design T-Shirt Customizing Website
-- You can upload custom logos, texture files.
-- Or you can write AI Prompt to help you generated custom logos and textures for your T-Shirt.
-
-##Using
+# Using
 
 - Vercel: Hosting Services
 - Tailwind CSS: Format Style
