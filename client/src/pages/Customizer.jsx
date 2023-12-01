@@ -49,7 +49,7 @@ const Customizer = () => {
     try {
       setGeneratingImg(true);
       const response = await fetch(
-        'http://localhost:8080/api/v1/ttv',
+        'https://ttv-be-design-shirt-ai.vercel.app/api/v1/ttv',
         {
           method: "POST",
           headers: {
