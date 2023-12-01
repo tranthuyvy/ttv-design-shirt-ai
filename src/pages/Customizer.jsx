@@ -49,7 +49,7 @@ const Customizer = () => {
     try {
       setGeneratingImg(true);
       const response = await fetch(
-        "https://tshirt-ai-sgb3.onrender.com/api/v1/dalle",
+        'http://localhost:8080/api/v1/ttv',
         {
           method: "POST",
           headers: {
@@ -61,6 +61,7 @@ const Customizer = () => {
         }
       );
       const data = await response.json();
+      console.log("data", data);
       handleDecals(type, `data:image/png;base64,${data.photo}`);
     } catch (error) {
       alert(error);
@@ -85,7 +86,6 @@ const Customizer = () => {
       case "stylishShirt":
         state.isFullTexture = !activeFilterTab[tabName];
         break;
-
       default:
         state.isFullTexture = false;
         state.isLogoTexture = true;

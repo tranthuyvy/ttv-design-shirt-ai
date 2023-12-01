@@ -6,3 +6,9 @@
 - Install tailwindcss go: https://tailwindcss.com/docs/guides/vite
     + npm install -D tailwindcss postcss autoprefixer
     + node_modules/.bin/tailwindcss init
+
+- Test AI:
+    + Design a simple modern logo icon using geometric shapes and a minimalistic color scheme, without any text or lettering.
+    + A cool simple logo
+    + Create a smooth gradient pattern that goes from red to black
+    + A cute baby sea otter
